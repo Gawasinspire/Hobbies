@@ -1,3 +1,6 @@
 [submodule "data_analysis_crude"]
 	path = data_analysis_crude
 	url = https://github.com/Gawasinspire/data_analysis_crude
+[submodule "stm32f429"]
+	path = stm32f429
+	url = https://github.com/Gawasinspire/stm32f429
